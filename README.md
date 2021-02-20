@@ -1,6 +1,6 @@
 # Sticker-Convertor
 Convert telegram Stickers to png file, and Jpg to PNG, Sticker to PNG, Webp to PNG,  Animated Sticker to GIF 😍
-
+-  http://t.me/stickerConv_Bot ✌
 # How to install requirements ?
 Use this command :
 
